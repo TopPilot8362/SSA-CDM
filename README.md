@@ -104,5 +104,5 @@ The script checks:
 | Directory | FIR | Airports | Status |
 |---|---|---|---|
 | `FASA` | South Africa | FAOR, FACT, FALE, FALA, FAGG, FAPE, FAEL, FABL | Complete |
-| `GVSC` | Sal | GVAC, GVSV, GVBA, GVNP | Partial - rate and interval data only |
+| `GVSC` | Sal | GVAC, GVSV, GVBA, GVNP | Partial — rate and interval data only |
 | `HKNA` | Nairobi | HKJK | Partial — rate data only |
