@@ -1,3 +1,4 @@
 # AIRPORT:A:ArrRwyList:NotArrRwyList:D:DepRwyList:NotDepRwyList:DependentRwyList:Rate_RateLvo
 
 GOBD:A:01:19:D:01:19:01:17_14
+GOBD:A:19:01:D:19:01:19:17_14
