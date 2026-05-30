@@ -1,1 +1,7 @@
+# AIRPORT:A:ArrRwyList:NotArrRwyList:D:DepRwyList:NotDepRwyList:DependentRwyList:Rate_RateLvo
 
+HTDA:A:05:23:D:05:23:05,23:28_17
+HTDA:A:23:05:D:23:05:23,03:24_14
+
+HTZA:A:18:36:D:18:36:18,36:26_16
+HTZA:A:36:18:D:36:18:36,18:24_14
