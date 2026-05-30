@@ -1,0 +1,3 @@
+# AIRPORT:A:ArrRwyList:NotArrRwyList:D:DepRwyList:NotDepRwyList:DependentRwyList:Rate_RateLvo
+
+DNMM:A:18L:36R:D:18L:36R:18L,36R:28_18
