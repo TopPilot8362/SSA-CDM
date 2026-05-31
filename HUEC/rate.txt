@@ -1,1 +1,4 @@
+# AIRPORT:A:ArrRwyList:NotArrRwyList:D:DepRwyList:NotDepRwyList:DependentRwyList:Rate_RateLvo
 
+HUEN:A:17:35:D:17:35:17,35: 26_18
+HUEN:A:35:17:D:35:17:35,17: 22_14
