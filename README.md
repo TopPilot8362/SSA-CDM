@@ -19,6 +19,11 @@ This repository stores CDM configuration data for airports within the VATSIM SSA
 │   ├── rate.txt
 │   ├── sidinterval.txt
 │   └── taxizones.txt
+├── HUEC/          # Entebbe FIR
+│   ├── CTOT.txt
+│   ├── rate.txt
+│   ├── sidinterval.txt
+│   └── taxizones.txt
 └── validate.py    # Data validation script
 ```
 
