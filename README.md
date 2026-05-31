@@ -105,3 +105,4 @@ The script checks:
 |---|---|---|---|
 | `FASA` | South Africa | FAOR, FACT, FALE, FALA, FAGG, FAPE, FAEL, FABL | Complete |
 | `HKNA` | Nairobi | HKJK | Partial — rate data only |
+| `HUEC` | Entebbe | HUEC | Partial — rate data only |
