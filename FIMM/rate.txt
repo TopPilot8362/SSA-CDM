@@ -1,0 +1,4 @@
+# AIRPORT:A:ArrRwyList:NotArrRwyList:D:DepRwyList:NotDepRwyList:DependentRwyList:Rate_RateLvo
+
+FIMP:A:14:32:D:14:32:14,32:26_16
+FIMP:A:32:14:D:32:14:32,14:26_16
