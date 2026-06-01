@@ -14,6 +14,11 @@ This repository stores CDM configuration data for airports within the VATSIM SSA
 │   ├── rate.txt        # Runway configuration and acceptance rates
 │   ├── sidinterval.txt # SID pair separation intervals
 │   └── taxizones.txt   # Taxi zone polygon definitions
+├── FBGR/          # Gaborone
+│   ├── CTOT.txt        # Slot-controlled event assignments
+│   ├── rate.txt        # Runway configuration and acceptance rates
+│   ├── sidinterval.txt # SID pair separation intervals
+│   └── taxizones.txt   # Taxi zone polygon definitions
 ├── HKNA/          # Nairobi FIR
 │   ├── CTOT.txt
 │   ├── rate.txt
@@ -99,4 +104,5 @@ The script checks:
 | Directory | FIR | Airports | Status |
 |---|---|---|---|
 | `FASA` | South Africa | FAOR, FACT, FALE, FALA, FAGG, FAPE, FAEL, FABL | Complete |
+| `FBGR` | Gaborone | FBSK | Partial — rate data only |
 | `HKNA` | Nairobi | HKJK | Partial — rate data only |
